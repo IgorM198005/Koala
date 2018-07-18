@@ -1,0 +1,8 @@
+﻿<Application x:Class="Koala.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"             
+             Startup="App_Startup">
+    <Application.Resources>
+	    <FontFamily x:Key="OpenSans">pack://application:,,,Resources/Fonts/#Open Sans</FontFamily>         
+    </Application.Resources>
+</Application>

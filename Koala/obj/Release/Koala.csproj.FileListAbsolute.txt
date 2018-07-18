@@ -1,0 +1,17 @@
+c:\Users\Игорь\source\repos\Koala\Koala\bin\Release\Koala.exe.config
+c:\Users\Игорь\source\repos\Koala\Koala\bin\Release\Koala.exe
+c:\Users\Игорь\source\repos\Koala\Koala\bin\Release\Koala.pdb
+c:\Users\Игорь\source\repos\Koala\Koala\obj\Release\MainWindow.g.cs
+c:\Users\Игорь\source\repos\Koala\Koala\obj\Release\App.g.cs
+c:\Users\Игорь\source\repos\Koala\Koala\obj\Release\Koala_Content.g.cs
+c:\Users\Игорь\source\repos\Koala\Koala\obj\Release\GeneratedInternalTypeHelper.g.cs
+c:\Users\Игорь\source\repos\Koala\Koala\obj\Release\Koala_MarkupCompile.cache
+c:\Users\Игорь\source\repos\Koala\Koala\obj\Release\Koala_MarkupCompile.lref
+c:\Users\Игорь\source\repos\Koala\Koala\obj\Release\App.baml
+c:\Users\Игорь\source\repos\Koala\Koala\obj\Release\MainWindow.baml
+c:\Users\Игорь\source\repos\Koala\Koala\obj\Release\Koala.g.resources
+c:\Users\Игорь\source\repos\Koala\Koala\obj\Release\Koala.Properties.Resources.resources
+c:\Users\Игорь\source\repos\Koala\Koala\obj\Release\Koala.csproj.GenerateResource.cache
+c:\Users\Игорь\source\repos\Koala\Koala\obj\Release\Koala.csproj.CoreCompileInputs.cache
+c:\Users\Игорь\source\repos\Koala\Koala\obj\Release\Koala.exe
+c:\Users\Игорь\source\repos\Koala\Koala\obj\Release\Koala.pdb
